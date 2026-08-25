@@ -61,10 +61,6 @@ The main goals of Chemistry Lab are to:
 * Create an interactive learning experience.
 * Automate the generation and classification of chemical reactions.
 
-## Project
-
-**GitHub:** https://github.com/lucfercosta/Chemistry-Lab
-
 ## Author
 
 **Lucas Fernandes**
